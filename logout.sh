@@ -21,5 +21,6 @@ echo '';
 #sleep 1
 #echo -ne 'Exitting in 2\r'
 #sleep 1
+mv logged-in logged-out
 echo 'Exitting'
 

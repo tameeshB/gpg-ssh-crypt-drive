@@ -11,5 +11,6 @@ tar xzf root.tar.gz
 #echo -ne 'Almost done...\t#####################      \r'
 echo 'Almost done...'
 rm -f root.tar.gz
+mv logged-out logged-in
 echo 'Complete...'
 #mv data data2
